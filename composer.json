@@ -1,0 +1,10 @@
+{
+    "name": "root/number-to-words",
+    "authors": [
+        {
+            "name": "Nizar El Berjawi",
+            "email": "nizarberjawi12@gmail.com"
+        }
+    ],
+    "require": {}
+}
